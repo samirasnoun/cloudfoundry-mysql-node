@@ -1,0 +1,14 @@
+.bundle
+.cache
+.kitchen
+bin
+
+.bundle
+db/*.sqlite3*
+log/*.log
+*.log
+/tmp/
+doc/
+*.swp
+*~
+.DS_Store

@@ -1,0 +1,3 @@
+cookbook "cloudfoundry-mysql-service" do
+  runtimes []
+end
